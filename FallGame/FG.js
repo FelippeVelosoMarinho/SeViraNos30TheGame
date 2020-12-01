@@ -99,7 +99,7 @@ var blocks = setInterval(function(){
 
 var delay=8000; //8 segundos
 setTimeout(function(){
-    location.href = "../DinnoGame/Dinno.html";
+    location.href = "../DinnoGame/dinno.html";
         //o código vai ser executado em 8 segundos
 },delay);
 
