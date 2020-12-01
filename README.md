@@ -11,4 +11,19 @@ Além da logo e nome do programa Se vira nos 30.
 
 ## Página inicial
 No Menu inicial há um botão para jogar, a logo e um simples sistema de document.createTextNode usando um input para receber os dados em uma variável.
-https://github.com/FelippeVelosoMarinho/SeViraNos30TheGame/issues/1#issue-754612006
+![MenuINiciar](https://user-images.githubusercontent.com/60450622/100780013-f96c0500-33e7-11eb-8259-0e10056055c7.PNG)
+
+## Minigames
+### Fall Game
+![FallGame](https://user-images.githubusercontent.com/60450622/100780278-47810880-33e8-11eb-95f2-b29a92f9f537.PNG)
+
+### Dinno Game
+![DinnoGame](https://user-images.githubusercontent.com/60450622/100780348-59fb4200-33e8-11eb-97c4-a2442f577943.PNG)
+
+### FlappyBird
+![FlappyBird](https://user-images.githubusercontent.com/60450622/100780384-6aabb800-33e8-11eb-8e89-622aaf931867.PNG)
+
+
+## O que é o jogo
+No Se vira nos 30 The game o objetivo é claro, sobreviver 30 segundos.
+Nesse tempo alguns minigames aparecerão, vença-os e ganhe um troféu no final :)!!
