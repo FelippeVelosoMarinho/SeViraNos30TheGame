@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+body h1{
+    margin-bottom: 20px;
+}
+.contador {  
+    font-size:20px;  
+}
+#game{
+    width: 512px;
+    height: 200px;
+    background-color: rgb(138, 198, 255);
+    
+}
+#character{
+    width: 20px;
+    height: 50px;
+    background-color:rgb(16, 80, 16);
+    position: relative;
+    top: 150px;
+}
+.animate{
+    animation: jump 500ms infinite;
+}
+@keyframes jump{
+    0%{top: 150px;}
+    30%{top: 100px;}
+    70%{top: 100px;}
+    100%{top: 150px;}
+}
+#block{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(44, 139, 44);;
+    position: relative;
+    top: 130px;
+    left: 480px;
+    animation:  block 1s infinite linear;
+}
+@keyframes block{
+    0%{left:480px;}
+    100%{left:-40px;}
+}
