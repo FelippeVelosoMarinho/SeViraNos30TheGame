@@ -21,7 +21,7 @@ No Menu inicial há um botão para jogar, a logo e um simples sistema de documen
 ![DinnoGame](https://user-images.githubusercontent.com/60450622/100780348-59fb4200-33e8-11eb-97c4-a2442f577943.PNG)
 
 ### FlappyBird
-![FlappyBird](https://user-images.githubusercontent.com/60450622/100780384-6aabb800-33e8-11eb-8e89-622aaf931867.PNG)
+![FlappyBird](https://user-images.githubusercontent.com/60450622/100780580-a8104580-33e8-11eb-8097-1c9214acffc5.PNG)
 
 
 ## O que é o jogo
